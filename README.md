@@ -93,11 +93,10 @@ This project provides a solid foundation. To enhance it further, we plan to:
 * **⭐️ Introduce a Two-Way Rating System:** Allow both users and workers to rate each other to build trust and accountability.
 * **💬 Add In-App Communication:** A messaging feature for users and workers to communicate directly.
 * **✅ Create a Skill Verification Process:** A system to verify worker skills beyond self-declaration.
-* **📍 Incorporate Geolocation:** Use location data to show jobs and workers on a map.
 
 ## 👥 Meet the Team
 
 | Name            | Role           | GitHub Profile                                  |
 |-----------------|----------------|--------------------------------------------------|
-| [Your Name]     | Full-Stack Dev | [github.com/your-username](https://github.com/your-username) |
-| [Teammate Name] | Backend/DB     | [github.com/teammate-username](https://github.com/teammate-username)
+| [Harshil Garg]  | Back-end       | [https://github.com/H4R5H1L-27](https://github.com/your-username) |
+| Kartik Mangla   | Front-end      | [https://github.com/kavish12345678]((https://github.com/kavish12345678)) |
