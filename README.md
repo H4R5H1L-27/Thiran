@@ -99,4 +99,4 @@ This project provides a solid foundation. To enhance it further, we plan to:
 | Name            | Role           | GitHub Profile                                  |
 |-----------------|----------------|--------------------------------------------------|
 | [Harshil Garg]  | Back-end       | [https://github.com/H4R5H1L-27](https://github.com/your-username) |
-| Kartik Mangla   | Front-end      | [https://github.com/kavish12345678]((https://github.com/kavish12345678)) |
+| Kartik Mangla   | Front-end      | [https://github.com/kavish12345678](https://github.com/kavish12345678) |
