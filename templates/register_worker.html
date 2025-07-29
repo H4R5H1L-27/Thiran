@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register Worker</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h2>Register as Worker</h2>
+    
+    <!-- Worker registration form -->
+    <form method="POST">
+        <input type="text" name="name" placeholder="Your Name" required><br>
+        <input type="password" name="password" placeholder="Password" required><br>
+
+        <p>Select Your Skills:</p>
+        {% for sid, sname in skills %}
+            <label><input type="checkbox" name="skills" value="{{ sid }}"> {{ sname }}</label><br>
+        {% endfor %}
+
+        <button type="submit">Register</button>
+    </form>
+</body>
+</html>

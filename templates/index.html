@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Thiran - Home</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Thiran: Hyperlocal Job Platform</h1>
+
+    <h2>Login</h2>
+
+    <!-- Worker login form -->
+    <div class="form-box">
+        <h3>Worker Login</h3>
+        <form action="/login_worker" method="POST">
+            <input type="text" name="name" placeholder="Name" required><br>
+            <input type="password" name="password" placeholder="Password" required><br>
+            <button type="submit">Login as Worker</button>
+        </form>
+    </div>
+
+    <!-- Employer login form -->
+    <div class="form-box">
+        <h3>Employer Login</h3>
+        <form action="/login_user" method="POST">
+            <input type="text" name="username" placeholder="Username" required><br>
+            <input type="password" name="password" placeholder="Password" required><br>
+            <button type="submit">Login as Employer</button>
+        </form>
+    </div>
+
+    <h2>Register</h2>
+    <a href="/register_worker">Register as Worker</a><br>
+    <a href="/register_user">Register as Employer</a>
+</body>
+</html>
